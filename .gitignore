@@ -1,0 +1,32 @@
+# Participant data and results derived from it (never upload)
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*_output.txt
+Demographics/
+Midterm Data/
+Mock Data/
+Other/
+
+# Figures (show individual participant values)
+Graphs*/
+*.png
+*.pdf
+*.webp
+
+# Manuscript and slide files
+*.docx
+*.pptx
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store
